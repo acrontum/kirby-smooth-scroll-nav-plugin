@@ -68,4 +68,4 @@ $pageCouldHaveChildren = ((isset($structure['pages']['template'])) && (count($st
 You can alter the scroll to position of any snippet by simply adding the html attribute `data-offset="100"`.
 
 ## Copyright
-Copyright 2016 acrontum GmbH
+Copyright 2016 Acrontum GmbH
